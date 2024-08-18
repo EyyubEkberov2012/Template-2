@@ -8,7 +8,7 @@ body {
     width: 100%;
     min-height: 547px;
     float: left;
- 
+
 }
 
 .main h1 {
@@ -18,10 +18,11 @@ body {
 #center {
     width: 100%;
     min-height: 447px;
-   
-   
+
+
 }
-#Basic{
+
+#Basic {
     width: 350px;
     min-height: 447px;
     float: left;
@@ -29,42 +30,49 @@ body {
     margin-left: 23px;
 
 }
-#Regular{
+
+#Regular {
     width: 350px;
     min-height: 447px;
     float: left;
     border: green 5px solid;
     margin-left: 11px;
 }
-#Pro{
+
+#Pro {
     width: 350px;
     min-height: 447px;
     float: left;
     border: lightseagreen 5px solid;
     margin-left: 11px;
 }
-#Ultimate{
+
+#Ultimate {
     width: 350px;
     min-height: 447px;
     float: left;
     border: navy 5px solid;
     margin-left: 11px;
 }
-#center h2{
+
+#center h2 {
     margin-left: 200px;
 }
+
 .div1 {
     width: 150px;
     min-height: 150px;
     border-radius: 100%;
-    background-color:tomato;
+    background-color: tomato;
     margin-left: 75px;
     margin-top: 30px;
     padding-top: 60px;
     padding-left: 17px;
     box-sizing: border-box;
+    
 }
-.Span2{
+
+.Span2 {
     padding-top: 60px;
     box-sizing: border-box;
     padding-left: 30px;
@@ -72,46 +80,127 @@ body {
     color: white;
 
 }
+
 .Span {
     box-sizing: border-box;
-    font-size:35px;
+    font-size: 35px;
     color: white;
 
 }
+
 .div2 {
     width: 150px;
     min-height: 150px;
     border-radius: 100%;
-    background-color:green;
+    background-color: green;
     margin-left: 60px;
     margin-top: 30px;
     padding-top: 60px;
     padding-left: 17px;
     box-sizing: border-box;
 }
+
 .div3 {
     width: 150px;
     min-height: 150px;
     border-radius: 100%;
-    background-color:lightseagreen;
+    background-color: lightseagreen;
     margin-left: 75px;
     margin-top: 30px;
     padding-top: 60px;
     padding-left: 17px;
     box-sizing: border-box;
 }
+
 .div4 {
     width: 150px;
     min-height: 150px;
     border-radius: 100%;
-    background-color:navy;
+    background-color: navy;
     margin-left: 75px;
     margin-top: 30px;
     padding-top: 60px;
     padding-left: 17px;
     box-sizing: border-box;
 }
-#Basic h3{
+
+#Basic h3 {
     text-align: center;
     border-bottom: tomato 3px solid;
+}
+
+#Basic button {
+    width: 100%;
+    height: 40px;
+    background-color: tomato;
+    font-size: x-large;
+    font-family: cursive;
+    transition: 0.8;
+    cursor: pointer;
+}
+
+#Basic button:hover {
+    background-color: lightcoral;
+}
+
+#Regular h3 {
+    text-align: center;
+    border-bottom: green 3px solid;
+}
+
+#Regular button {
+    width: 100%;
+    height: 40px;
+    background-color: green;
+    font-size: x-large;
+    font-family: cursive;
+    transition: 0.8;
+    cursor: pointer;
+}
+
+#Regular button:hover {
+    background-color: lawngreen;
+}
+
+#Pro h3 {
+    text-align: center;
+    border-bottom: lightseagreen 3px solid;
+}
+
+#Pro button {
+    width: 100%;
+    height: 40px;
+    background-color: lightseagreen;
+    font-size: x-large;
+    font-family: cursive;
+    transition: 0.8;
+    cursor: pointer;
+}
+
+#Pro button:hover {
+    background-color: lightskyblue;
+}
+
+#Ultimate h3 {
+    text-align: center;
+    border-bottom: navy 3px solid;
+}
+
+#Ultimate button {
+    width: 100%;
+    height: 40px;
+    background-color: navy;
+    font-size: x-large;
+    font-family: cursive;
+    transition: 0.8;
+    cursor: pointer;
+}
+
+#Ultimate button:hover {
+    background-color: rgb(9, 9, 213);
+}
+
+a {
+    text-decoration: none;
+    color: white;
 }
