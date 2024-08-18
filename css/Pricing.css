@@ -1,0 +1,117 @@
+body {
+    margin: 0px;
+    font: 1em sans-serif;
+
+}
+
+.main {
+    width: 100%;
+    min-height: 547px;
+    float: left;
+ 
+}
+
+.main h1 {
+    text-align: center;
+}
+
+#center {
+    width: 100%;
+    min-height: 447px;
+   
+   
+}
+#Basic{
+    width: 350px;
+    min-height: 447px;
+    float: left;
+    border: tomato 5px solid;
+    margin-left: 23px;
+
+}
+#Regular{
+    width: 350px;
+    min-height: 447px;
+    float: left;
+    border: green 5px solid;
+    margin-left: 11px;
+}
+#Pro{
+    width: 350px;
+    min-height: 447px;
+    float: left;
+    border: lightseagreen 5px solid;
+    margin-left: 11px;
+}
+#Ultimate{
+    width: 350px;
+    min-height: 447px;
+    float: left;
+    border: navy 5px solid;
+    margin-left: 11px;
+}
+#center h2{
+    margin-left: 200px;
+}
+.div1 {
+    width: 150px;
+    min-height: 150px;
+    border-radius: 100%;
+    background-color:tomato;
+    margin-left: 75px;
+    margin-top: 30px;
+    padding-top: 60px;
+    padding-left: 17px;
+    box-sizing: border-box;
+}
+.Span2{
+    padding-top: 60px;
+    box-sizing: border-box;
+    padding-left: 30px;
+    font-size: large;
+    color: white;
+
+}
+.Span {
+    box-sizing: border-box;
+    font-size:35px;
+    color: white;
+
+}
+.div2 {
+    width: 150px;
+    min-height: 150px;
+    border-radius: 100%;
+    background-color:green;
+    margin-left: 60px;
+    margin-top: 30px;
+    padding-top: 60px;
+    padding-left: 17px;
+    box-sizing: border-box;
+}
+.div3 {
+    width: 150px;
+    min-height: 150px;
+    border-radius: 100%;
+    background-color:lightseagreen;
+    margin-left: 75px;
+    margin-top: 30px;
+    padding-top: 60px;
+    padding-left: 17px;
+    box-sizing: border-box;
+}
+.div4 {
+    width: 150px;
+    min-height: 150px;
+    border-radius: 100%;
+    background-color:navy;
+    margin-left: 75px;
+    margin-top: 30px;
+    padding-top: 60px;
+    padding-left: 17px;
+    box-sizing: border-box;
+}
+#Basic h3{
+    text-align: center;
+    border-bottom: tomato 3px solid;
+}
