@@ -1,0 +1,91 @@
+body{
+    background-image:url(../img/lahiye_bac.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 50px;
+}
+#main{
+    min-height: 547px;
+    width: inherit;
+    float: left;
+    box-sizing: border-box;
+    float: left;
+}
+.H1{
+    margin-left:150px ;
+    font-size: 30px;
+    color: darkblue;
+    float: left;
+}
+.lorem1 {
+    margin-top: 90px;
+    margin-left: 500px;
+    font-size: 15px;
+    box-sizing: border-box;
+    float: left;
+    width: 300px;
+    /* background: yellow; */
+    min-height: 100px;
+}
+#head{
+    width: inherit;
+    min-height: 200px;
+    float: left;
+}
+.Shapes{
+   min-width: 200px;
+    height:50px ;
+    margin-left:100px ;
+    display: block;
+    box-sizing: border-box;
+}
+#Shapes1{
+    width:110px;
+    height: 100%;
+    background-color:darkgreen ;
+    border-radius: 30px;
+    float: left;
+    display: block;
+    box-sizing: border-box;
+    padding-left: 30px;
+    padding-top: 10px;
+    transition: 0.2s;
+}
+#Shapes2{
+    width:50px;
+    height: 100%;
+    background-color:darkgreen ;
+    border-radius: 30px;
+    float: left; 
+    margin-left: 10px;
+    padding-left: 30px;
+    padding-top: 10px;
+    display:block;
+    float: left;
+    box-sizing: border-box;
+    transition: 0.2s;
+}
+
+.icon{
+    width: inherit;
+    min-height: 200px;
+    float: left;
+    margin-top: 100px;
+}
+.icon i{
+    width: inherit;
+    min-height: 200px;
+    float: left;
+
+}
+
+
+
+#Shapes1:hover {
+    background-color: rgb(6, 183, 6);
+}
+
+#Shapes2:hover {
+    background-color: rgb(6, 183, 6);
+}
+

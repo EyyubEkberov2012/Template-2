@@ -1,6 +1,7 @@
 body {
     margin: 0px;
     font: 1em sans-serif;
+    background-image:url(../img/images.png) ;
 
 }
 
@@ -23,7 +24,7 @@ body {
 }
 
 #Basic {
-    width: 350px;
+    width: 290px;
     min-height: 447px;
     float: left;
     border: tomato 5px solid;
@@ -32,7 +33,7 @@ body {
 }
 
 #Regular {
-    width: 350px;
+    width: 290px;
     min-height: 447px;
     float: left;
     border: green 5px solid;
@@ -40,7 +41,7 @@ body {
 }
 
 #Pro {
-    width: 350px;
+    width: 290px;
     min-height: 447px;
     float: left;
     border: lightseagreen 5px solid;
@@ -48,7 +49,7 @@ body {
 }
 
 #Ultimate {
-    width: 350px;
+    width: 290px;
     min-height: 447px;
     float: left;
     border: navy 5px solid;
